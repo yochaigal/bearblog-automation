@@ -7,9 +7,9 @@
 
 blog:
   # Your Bear Blog username (used for backup export URL)
-  bearblog_username: "fischr"
+  bearblog_username: "newschoolrevolution"
   # Public base URL for your blog (used for link checker reports)
-  site_url: "https://fischr.org"
+  site_url: "https://newschoolrevolution.com"
 
 backup:
   # Directory name for blog post backups (relative to repository root)
@@ -34,8 +34,6 @@ backup:
     # Only download from these domains (for security)
     allowed_domains:
       - "bear-images.sfo2.cdn.digitaloceanspaces.com"
-      - "fischr.org"
-      - "gaehn.org"
 
 social:
   # Your Mastodon instance URL
