@@ -1,0 +1,211 @@
+---
+uid: fAHqyswEGQvofRgqGcUq
+title: How I Do Play by Post
+slug: how-i-do-play-by-post
+alias: ""
+published_date: "2024-12-06T13:00:00+00:00"
+all_tags: "[\"cairn\", \"pbp\", \"rpg\"]"
+publish: "True"
+make_discoverable: "True"
+is_page: "False"
+canonical_url: ""
+meta_description: ""
+meta_image: ""
+lang: ""
+class_name: ""
+first_published_at: "2024-12-06T13:00:00+00:00"
+---
+
+## Introduction    
+
+I've been running Play By Post (PbP) games for many years now, and I thought it might be helpful to some folks to hear exactly how I do that, what I've learned, and what works for me.
+
+## History
+
+Play By Post has been part of the RPG gaming world for decades, going back to the letter-writing campaigns of the 1970s (and perhaps even earlier!). As PbP games moved towards being played online, games typically happened on web-based discussion forums. As Internet technology has evolved, some gamers shifted over to dedicated platforms like [Rolegate](https://rolegate.com) and [Gamersplane](https://gamersplane.com), along with the ever-popular gaming-centric chat app Discord. For our purposes we will focus on gaming via Discord, but much of what I have to say can apply to other platforms as well. 
+
+## But What Does It Look Like?
+
+If you're totally new to PbP and just want to dive in and see what it is all about, here are some screenshots I've selected from my current PbP:
+
+![example1](https://bear-images.sfo2.cdn.digitaloceanspaces.com/newschoolrevolution/example1-1.webp)
+
+![example2](https://bear-images.sfo2.cdn.digitaloceanspaces.com/newschoolrevolution/example2.webp)
+
+## Set Expectations
+
+Before you begin, try to answer the following questions:
+- When will you start playing?
+- How often will players be required to post?
+- How should players write their responses?
+- What kinds of content is absolutely banned, and what is allowed?
+- Will you be making characters as a group (at the same time), or individually?
+- Who will manage the maps, logs, recording keeping, and so on for the players?
+- What sorts of digital tools do we plan on using?
+
+Please read the following tips to help answer some of these questions.
+
+### Asynchronous vs Synchronous
+
+Most PbP games are asynchronous, meaning that players post on their own time, without coordinating with anyone else. However some players prefer a set time, such as "Sundays between 3 and 6pm" and prepare for voluminous amount of writing, akin to playing online with a camera. This can actually be quite fun, and copacetic players can switch between the two styles if they like.
+
+### Posting Frequency
+
+For asynchronous games, the expectation is that users will post a minimum of response text or character actions per day. I would recommend that new PbP games require their players post at least once per day, then build from there. Eventually the group will become accustomed to their unique player "free periods" where posting is expected. For example, in my current PbP one of our players lives in Southeast Asia and typically only replies during my mornings and evenings. This does not mean that the rest of the group do not play during the day, only that the other players have adjusted to waiting until all of the players have "gone" in the game before making huge decisions.
+
+### Content Warnings
+
+There are plenty of excellent posts and guides on this subject so I won't spend too much time here. I'll only say that it is the responsibility of the entire table - virtual or no - to ensure that everyone is as comfortable as they can be. I'm partial to "lines and veils" myself; that is to say: indicate what you're OK with happening off screen, and what has absolutely no place at your table.
+
+### Writing Styles
+
+The way the GM and players communicate may be the most overlooked aspect of modern PbP, particularly on ephemeral chat apps like Discord. It is nonetheless _extremely_ important! There are a few things to consider here, and the results may be very much up to your group's unique dynamic. Whatever you do, _be consistent_.
+
+Consider the following questions:
+
+#### How do the players communicate with one another?
+
+- Is there a dedicated "planning" channel, or does anything go?
+- Is there a channel just for non-game related chatter?
+
+#### How does the GM communicate with players?
+  
+- Does the GM address PCs by their name, or do they talk to players directly?
+- Discord allows users to change their display name on just one server. Consider asking players to rename their user to their character's name. This includes the GM!
+
+#### How do the PCs interact with the world, the NPCs, and other PCs?
+
+- Is there an "out-of-character" channel, an "in-character" channel, or is everything game-related all together? 
+- Is there any unique formatting the players and GM should follow? 
+- Do they bold **proper names**? Do they use [brackets] to ask the GM questions out of character?
+
+#### What "person" do the players and GMs use in when they talk? 
+
+- Do they write, "I say" or "My character/Name says," or something else?
+- Does the GM say "the party does..." or "You do..." when addressing the players/PCs directly?
+
+### Bookkeeping
+
+In any game (PbP or otherwise) there is a division of labor between the GM and the players. Who keeps records? Who draws the map? Who reminds the party how much food they have left? And so on. In a PbP it is especially important to be clear about who takes what role, as the time between posts and slower play means that the smaller details may get lost in the text. There are a few things you can do to mitigate this issue, however.
+
+Here is an example from my game, tracking wilderness events:
+
+![bookkeeping1](https://bear-images.sfo2.cdn.digitaloceanspaces.com/newschoolrevolution/bookkeeping1.webp)
+
+#### Dedicated Channels
+
+Create dedicated channels for record keeping, even if they are rarely used! Create channels for logging torch usage, wilderness travel actions, or even for short summaries of the day's events can really make a difference in the long run.
+
+#### Assign Roles
+
+Sometimes it is easier to offload your work: ask a player to maintain maps, to keep track of the party's supplies, etc! It is their game too, and they should pull their weight. It will also help keep the players engaged in play, which lessens [#entropy].
+
+#### Write Daily Summaries
+
+Due to the slow pace of play some players (and GMs) really struggle to remember important details, no matter how hard you try. Help these players out by restating the previous day's events as often as possible, with an emphasis on important game events and upcoming decisions.
+
+#### Reframe Key Decision Points
+
+The flow of play in a PbP is unique from in-person gaming in that players are often waiting for _someone to respond_ before they can react to a situation. This includes the GM, of course - meaning that quite often I am waiting around for up to a minority of players to respond before I can proceed with the game! 
+
+While Discord does have a great phone app that allows PbP posting from anywhere, there are plenty of players (myself included) that prefer to sit at a computer before responding. This may occur because we need to read back to see what has happened in the previous day, write a long response (which may be easier with a real keyboard), or simply can't find the right time/place to post! 
+
+You can help your players _and yourself_ by simply reframing the events of the past day, focusing on what the PCs need to do next, which player needs to respond, and how. You can see an example of this sort of thing below:
+
+![restate](https://bear-images.sfo2.cdn.digitaloceanspaces.com/newschoolrevolution/restate.webp)
+
+#### Procedures
+
+I rely heavily on rules and procedures in my PbP, because they help keep everyone on the same page and maintain a feeling of "fairness" rather than arbitrary chaos. In Cairn 2e there are explicit dungeon and wilderness procedures that adapt to playing over text in a very straightforward manner. In short, I lean in on them pretty hard. Here are a few examples:
+
+![dungeon-procedures1](https://bear-images.sfo2.cdn.digitaloceanspaces.com/newschoolrevolution/dungeon-procedures1.webp)
+
+![dungeon-procedures2](https://bear-images.sfo2.cdn.digitaloceanspaces.com/newschoolrevolution/dungeon-procedures2.webp)
+
+![dungeon-procedures3](https://bear-images.sfo2.cdn.digitaloceanspaces.com/newschoolrevolution/dungeon-procedures3.webp)
+
+**Get used to saying "@everyone, what do you do?"**
+
+### Digital Tools
+
+What additional tools do you plan on integrating into the PbP experience? Will you use external character keepers, dice and lore bots, or map drawing tools? What about the players? Are they aware of what tools may be available to them? Here are a few digital tools you may consider useful:
+
+#### Character Keepers
+
+Does the system you're using have a web app for managing parties, characters, and the like?
+ - Some folks rely on a simple Google Sheet for keeping characters; there are likely some of these for your system of choice already!
+ - You can always keep player and party records as raw text in a dedicated channel. You can even gussy it up with nice formatting and colors!
+ - If you're using Cairn, there is [Kettlewright](https://kettlewright.com), a free, open source character/party management tool. Discord bot in the near future, as well.
+
+#### Dice
+
+Obviously there are plenty of [Discord dice bots](https://discord.com/application-directory/search?q=dice&page=1) out there. There are also simple [web-tools](https://rollforyour.party) out there as well. Here are just a few I've used:
+- [Dice Maiden](https://github.com/Humblemonk/DiceMaiden). A very simple and easy to use dice bot!
+- [Button Dice Roller](https://github.com/twonirwana/DiscordDiceBot). A beautiful (albeit slightly complicated to setup) dice bot with nice fat buttons that automagically re-appear after rolling. 
+- [Arvae](https://avrae.io/). A complete dice, character, and lore keeper for D&D 5e. You can use it for other games, though.
+
+We use dice pretty sparingly in my PbP, generally only requiring them for combat, saves, Die of Fate rolls, and events tables. But having a nice fat button (as in Button Dice Roller, my bot of choice) really makes a difference when we do need to roll because it helps people avoid having to remember to type "/r d20" or similar. If you do use Button Dice Roller, here is my setup:
+
+<div style="text-align: center; max-width: 90%; margin: 20px auto;">
+  <pre style="background-color: transparent; border: none; padding: 10px; font-family: monospace; color: inherit; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;">
+/custom_parameter start expression: {roll:1d4@d4/1d6@d6/1d8@d8/1d10@d10/1d12@d12/1d20@d20/2d4k1@d4+d4/2d6k1@d6+d6/2d8k1@d8+d8/2d10k1@d10+d10/2d12k1@d12+d12}= answer_format: without_expression dice_image_style: polyhedral_3d
+  </pre>
+</div>
+
+
+
+And the result:
+
+![bdr](https://bear-images.sfo2.cdn.digitaloceanspaces.com/newschoolrevolution/bdr.webp)
+
+
+#### Maps & Images
+
+I am not a good artist or graphic designer. I do not like making maps, or art, or doing layout. But there is still plenty of need to show maps and images in a PbP, and I've found the tools that work for me. 
+
+- [tldraw](https://tldraw.com) and [excalidraw](https://excalidraw.com). Both are free, open source drawing tools that are great for maps and quick diagrams. Sessions stay in the browser and do not move between devices unless you use the paid versions. They are both great for maps or quick diagrams.
+- [Shmeppy](https://shmeppy.com). A paid ($5/mo) VTT with mapping and dice rolling. I use it for my online games but find the dungeon making so easy that I also use it for PbPs. The developer is wonderful and responsive.
+- [Google Keep](https://keep.google.com). I occasionally use this to make diagrams from my phone, usually because a player doesn't understand one of my descriptions.
+- [imgur](https://imgur.com). A simple image hosting tool. I find it helpful if the image I need to upload is too large for Discord's free tier.
+
+### Lore
+
+Lore channels are places for the GM to keep the locations, myths, important NPCs, towns, first impressions, etc. the PCs need to remember at any point in the game. Personally I recommend a dedicated "Category" in Discord with channels for places, people, maps, quests, and so on. Even if they only keep a few posts for the duration of the game, you will come to appreciate having it handy! There are of course Discord bots that help achieve the same goals, but that is beyond my ken.
+
+## The Digital Tabletop
+
+Discord provides asynchronous, structured discussions through comment posts and threads. Users can post messages in topic-specific channels or forums, join audio or video calls, and so on. It is free (as in beer) software, allows users to post nearly unlimited messages, upload decent-quality images, create hundreds of channels, and is highly extensible via bots. In short, it is perfect for both asynchronous or real-time play by post gaming! 
+
+### Channels
+
+There is no universal recipe for the number of channels in your Discord PbP, but I recommend the following channels, at a minimum:
+
+- A private GM channel. Post snippets of text you might drop on the PCs later on, test bots, keep notes, etc.
+- A read-only help channel. Post Discord usage guides, rules texts, and so on.
+- A dedicated "out of character" or "out of game" chat channel.
+- A dedicated "in character" or "play" channel. This is where the action happens 
+- A dedicated channel or category for character and party updates. Players can even edit their own posts (one per character).
+- A bookkeeping channel for tracking consumables, party movement, and so on.
+
+Here are the channels I have created for my current PbP:
+
+![channels](https://bear-images.sfo2.cdn.digitaloceanspaces.com/newschoolrevolution/channels.webp)
+
+If you'd like to quickly emulate and modify my setup, I have created a [Server Template](https://discord.new/ZcPeg9F7yezd) of my game! There are a couple of unusual channels there such as "dictionary" that do not appear in the template, and you can change the player character channel names to match your own.
+
+## Entropy
+
+All PbP games eventually die, whether by choice or simple inertia. The latter is a very, very, common issue that pretty much all PbP players run into. There are a number of reasons for this, but the number one factor is _posting frequency_. When folks start posting less and less often, eventually _everyone_ stops posting. It is rarely anyone's "fault"; typically the holidays, a sudden illness or family crisis, etc. causes one player (or the GM) to need to take a break. The longer the break, the less likely the game will recover. Fortunately there are a few ways to forestall this eventuality! Here are my tips:
+
+- Post often, even if it is simply restating the current situation, asking a player/PC what they want to do, and so on.
+- Schedule a break to avoid burnout. Suggest a "no posting" week for the group, then prepare to start everything back up as efficiently as possible after everyone is back.
+- Try out a synchronous session! Schedule a day when everyone can play together, at the same time. A 1-2 hours session is usually enough to flood the game with renewed energy!
+
+## Conclusion
+
+I hope that this very-specific-to-me guide has helped you, and if you have any great tips that are missing from this post, please let me know! I'm always looking to improve. Thanks for reading.
+
+## Credits
+
+- [Playing By Post](https://drive.google.com/file/d/1bTyEJfX_LM0WkK5qgNHmOUKyiWnUstTG/view?usp=drive_link) by Tam H.
+- [Play-by-Post Gaming - some notes and advice](https://gorgonbones.blogspot.com/2023/08/play-by-post-gaming-some-notes-and.html) by Jenx
